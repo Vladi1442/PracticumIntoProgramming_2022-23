@@ -139,6 +139,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AdditionalTask10.cpp" />
+    <ClCompile Include="AdditionalTask11.cpp" />
+    <ClCompile Include="AdditionalTask12.cpp" />
+    <ClCompile Include="AdditionalTask13.cpp" />
+    <ClCompile Include="AdditionalTask14.cpp" />
+    <ClCompile Include="AdditionalTask2.cpp" />
+    <ClCompile Include="AdditionalTask3.cpp" />
+    <ClCompile Include="AdditionalTask4.cpp" />
+    <ClCompile Include="AdditionalTask5.cpp" />
+    <ClCompile Include="AdditionalTask6.cpp" />
+    <ClCompile Include="AdditionalTask7.cpp" />
+    <ClCompile Include="AdditionalTask8.cpp" />
+    <ClCompile Include="AdditionalTask9.cpp" />
     <ClCompile Include="Task1.cpp" />
     <ClCompile Include="Task2.cpp" />
     <ClCompile Include="Task3.cpp" />
